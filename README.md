@@ -1,1 +1,1 @@
-i am abijith from kgisl 
+I am Abijith a MCA graduate and Automation-focused Software Developer in Test with experience building, executing, and maintaining test automation scripts in Python and Java. Proficient in Selenium, REST/SOAP API testing, SQL validation, and CI/CD pipelines (GitLab, Jenkins). Strong debugging skills with log analysis and test coverage improvement. Familiar with Agile processes, SaaS testing environments, and financial/banking applications.
